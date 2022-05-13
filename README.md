@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, eu sou Marcelo Alves 👋🏻
 
-<!--
-**marceloalves1997/marceloalves1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### * Sou graduado em Ciências da computação(Bacharelado) na UFPB(Universidade Federal da Paraíba)🏫.
+### * No momento atuo como UX/UI Designer🎨 na @ICODS e estou ingressando na área de Front-End 🖥️.
 
-Here are some ideas to get you started:
+###Conheça mais um pouco sobre mim:
+[![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]](https://www.linkedin.com/in/marcelo-alves-gomes/)[![Behance(https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)]](https://www.behance.net/marcelo_alves_gomes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloalves1997&show_icons=true&theme=outrun)
+
+##Tecnologias que uso no meu dia-a-dia:
+
+
+
