@@ -1,6 +1,6 @@
 ## Olá, eu sou Marcelo Alves 👋🏻
 
-* Sou graduado em **Ciências da computação** (Bacharelado) na **UFPB** (Universidade Federal da Paraíba)🏫.
+* Sou graduado em <font color=#D9AE09> Ciências da Computação</font> (Bacharelado) na **UFPB** (Universidade Federal da Paraíba)🏫.
 * No momento atuo como **UX/UI Designer**🎨 na @ICODS e estou ingressando na área de **Front-End** 🖥️.
 
 #### Conheça mais um pouco sobre mim:
