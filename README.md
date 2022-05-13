@@ -8,6 +8,7 @@
 
 ### Status do meu GitHub 📊
 ![Marcelo GitHub status](https://github-readme-stats.vercel.app/api?username=marceloalves1997&show_icons=true&theme=outrun)
+[![Minhas linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloalves1997)](https://github.com/marceloalves1997)
 
 #### Tecnologias que uso no meu dia-a-dia:
 <div style="display:inline-block">
