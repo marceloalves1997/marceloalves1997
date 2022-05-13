@@ -7,7 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-alves-gomes/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marcelo_alves_gomes)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcelo_alves_gomes)
 
 ### Status do meu GitHub 📊
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloalves1997&show_icons=true&theme=outrun)
+![Marcelo GitHub status](https://github-readme-stats.vercel.app/api?username=marceloalves1997&show_icons=true&theme=outrun)
+[![Minhas linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloalves1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Tecnologias que uso no meu dia-a-dia:
 <div style="display:inline-block">
@@ -21,4 +23,5 @@
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" align="center">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" align="center">
 </div><br/>
+
 *Meu objetivo é criar produtos que somem na vida das pessoas.*
