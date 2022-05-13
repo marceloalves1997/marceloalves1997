@@ -21,4 +21,4 @@
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" align="center">
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" align="center">
 </div><br/>
-> Meu objetivo é criar produtos que somem na vida das pessoas
+*Meu objetivo é criar produtos que somem na vida das pessoas*
